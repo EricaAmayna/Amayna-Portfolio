@@ -33,3 +33,6 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+p {
+	font-size: 22px;
+}
