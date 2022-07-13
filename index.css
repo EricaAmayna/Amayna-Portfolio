@@ -4,14 +4,15 @@
 	box-sizing: border-box;
 }
 nav {
-	background-color: rgba(255, 255, 255, 0.8);
+	background-color: rgba(153, 102, 204, 0.8);
 }
 body {
 	background-image: url("./images/bg-body.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Edu NSW ACT Foundation', cursive;
+	font-size: 20px;
 }
 .bg-profile {
 	background-image: url("./images/bg-profile.jpg");
